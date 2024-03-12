@@ -68,7 +68,7 @@ When the User click the password reset email it will check the data and allow th
 - [Live Site](https://65eff77b6c955e7426de84f6--stirring-salamander-4c3040.netlify.app/)
 
 ## Live Site
-- [Live Site](https://urlshortener-server.onrender.com/)
+- [Live Site](https://65eff77b6c955e7426de84f6--stirring-salamander-4c3040.netlify.app/)
 
 ## Frontend code repository
 - [github](https://github.com/ArivazhaganPandiyan/urlshortener-client)
